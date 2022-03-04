@@ -1,4 +1,5 @@
 = Paragraphs
-:page-toclevels: 1
+// :page-toclevels: 1
 
-include::partial$par-p.adoc[]
+// Test include option
+// include::partial$par-p.adoc[]
