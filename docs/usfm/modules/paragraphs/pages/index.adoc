@@ -1,4 +1,4 @@
 = Paragraphs
-:toc:
+:page-toclevels: 1
 
 include::partial$par-p.adoc[]
