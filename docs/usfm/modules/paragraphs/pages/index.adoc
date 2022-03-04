@@ -1,3 +1,4 @@
 = Paragraphs
+:toc:
 
 include::partial$par-p.adoc[]
