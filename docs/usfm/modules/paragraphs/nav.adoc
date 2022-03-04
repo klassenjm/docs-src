@@ -1,2 +1,2 @@
 * xref:index.adoc[]
-** xref:par-p.adoc[\p - Paragraph]
+** xref:markers:par-p.adoc[\p - Paragraph]
